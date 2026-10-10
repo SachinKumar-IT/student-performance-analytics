@@ -78,3 +78,5 @@ Sachin Kumar
 ## GitHub Repository
 https://github.com/SachinKumar-IT/student-performance-analytics
 
+## Clone Repository
+https://github.com/SachinKumar-IT/student-performance-analytics.git
