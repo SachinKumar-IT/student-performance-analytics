@@ -52,22 +52,25 @@ The program displays student performance, grades, results, class statistics, sub
 
 *Screenshot 1: Student Dataset*
 
-<img width="704" height="617" alt="image" src="https://github.com/user-attachments/assets/badf5326-2f82-45f9-b1cd-8f224f3eadd2" />
+<img width="1003" height="510" alt="image" src="https://github.com/user-attachments/assets/06779375-9955-41aa-8adf-b1f615da51a2" />
+
 
 
 *Screenshot 2: Student Performance Report*
 
-<img width="560" height="553" alt="image" src="https://github.com/user-attachments/assets/7dd146c1-a594-44ed-a38f-134246f503f1" />
+<img width="554" height="557" alt="image" src="https://github.com/user-attachments/assets/e8d7c77f-db61-46b9-b993-74ccc2a1c2c7" />
+
 
 
 *Screenshot 3: Class and Subject-Wise Analysis*
 
-<img width="479" height="344" alt="image" src="https://github.com/user-attachments/assets/ae6c954a-0f21-4959-ba8d-19961dab69cd" />
+<img width="464" height="351" alt="image" src="https://github.com/user-attachments/assets/6a247f55-4fc8-4e8e-b48e-2af41e22357a" />
+
 
 
 *Screenshot 4: Top Three Academic Performers*
 
-<img width="456" height="139" alt="image" src="https://github.com/user-attachments/assets/c9466477-9dca-4fd6-8cbc-2cd7970c7623" />
+<img width="439" height="132" alt="image" src="https://github.com/user-attachments/assets/7994229b-c6ac-4286-b089-f6791db43805" />
 
 ## Author
 Sachin Kumar
