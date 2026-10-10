@@ -20,7 +20,7 @@ The Student Performance Analytics System is a Python-based mini-project that ana
 - `main.py` — Main program that runs the analysis.
 - `functions.py` — Reusable functions for calculations and evaluation.
 - `students.csv` — Dataset containing 20 student records.
-- `Project_Documentation.docx` — Project documentation.
+- `Project_Documentation.pdf` — Project documentation.
 
 ## Features
 - Student data loading and display.
