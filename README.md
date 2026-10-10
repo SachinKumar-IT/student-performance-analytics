@@ -49,17 +49,23 @@ The Student Performance Analytics System is a Python-based mini-project that ana
 
 ## Output
 The program displays student performance, grades, results, class statistics, subject-wise analysis, and the top three academic performers in the terminal.
+*Screenshot 1: Student Dataset*
 
-##Screenshot 1: Student Dataset
 <img width="704" height="617" alt="image" src="https://github.com/user-attachments/assets/badf5326-2f82-45f9-b1cd-8f224f3eadd2" />
 
-##Screenshot 2: Student Performance Report
+
+*Screenshot 2: Student Performance Report*
+
 <img width="560" height="553" alt="image" src="https://github.com/user-attachments/assets/7dd146c1-a594-44ed-a38f-134246f503f1" />
 
-##Screenshot 3: Class and Subject-Wise Analysis
+
+*Screenshot 3: Class and Subject-Wise Analysis*
+
 <img width="479" height="344" alt="image" src="https://github.com/user-attachments/assets/ae6c954a-0f21-4959-ba8d-19961dab69cd" />
 
-##Screenshot 4: Top Three Academic Performers
+
+*Screenshot 4: Top Three Academic Performers*
+
 <img width="456" height="139" alt="image" src="https://github.com/user-attachments/assets/c9466477-9dca-4fd6-8cbc-2cd7970c7623" />
 
 ## Author
